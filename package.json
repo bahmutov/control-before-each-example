@@ -1,0 +1,27 @@
+{
+  "name": "control-before-each-example",
+  "version": "1.0.0",
+  "description": "Control the beforeEach behavior using Cypress test config",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bahmutov/control-before-each-example.git"
+  },
+  "keywords": [
+    "cypress-example"
+  ],
+  "author": "Gleb Bahmutov <gleb.bahmutov@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bahmutov/control-before-each-example/issues"
+  },
+  "homepage": "https://github.com/bahmutov/control-before-each-example#readme",
+  "devDependencies": {
+    "cypress": "^12.0.1",
+    "prettier": "^2.8.1"
+  }
+}
